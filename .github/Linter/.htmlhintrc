@@ -18,8 +18,8 @@
   "inline-style-disabled": false,
   "inline-script-disabled": false,
   "space-tab-mixed-disabled": "space",
-  "id-class-ad-disabled": false,
-  "id-class-value": false,
+  "id-class-ad-disabled": true,
+  "id-class-value": true,
   "href-abs-or-rel": false,
   "attr-unsafe-chars": true,
   "head-script-disabled": true
